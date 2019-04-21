@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE
+D:\Users\DELL\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\KNN\com.python.pydev.analysis\v2_indexcache
+sklearnSample|1555059868766|D:\Users\DELL\workspace\KNN\sklearnSample.py
+KnnImp|1555397878896|D:\Users\DELL\workspace\KNN\KnnImp.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=sklearnSample
+1=KnnImp
+-- END DICTIONARY
+-- START TREE 1
+7
+euc|1|euclideanDistance!10@
+get|3|getResponse!10@getNeighbors!10@getAccuracy!10@
+iri|1|iris!19@
+knn|1|knn!19@
+loa|1|loadDataset!10@
+mai|1|main!10@
+pre|1|predictLable!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

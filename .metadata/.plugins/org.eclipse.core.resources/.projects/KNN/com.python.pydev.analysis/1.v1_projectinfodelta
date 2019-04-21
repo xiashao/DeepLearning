@@ -1,0 +1,10 @@
+INSTUPKnnImp
+D:\Users\DELL\workspace\KNN\KnnImp.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0
+getAccuracy=6
+getResponse=5
+loadDataset=1
+main=7
+KnnImp=2
+euclideanDistance=3
+getNeighbors=4

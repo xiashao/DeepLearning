@@ -1,0 +1,29 @@
+-- VERSION_4
+-- START DISKCACHE
+D:\Users\DELL\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\DTree\com.python.pydev.analysis\v2_indexcache
+AllElectronics|1554904765877|D:\Users\DELL\workspace\DTree\AllElectronics.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=AllElectronics
+-- END DICTIONARY
+-- START TREE 1
+14
+all|1|allElectronicsData!11@
+clf|1|clf!11@
+dum|2|dummyX!11@dummyY!11@
+f|1|f!11@
+fea|1|featureList!11@
+hea|1|headers!11@
+lab|1|labelList!11@
+lb|1|lb!11@
+new|1|newRow!11@
+one|1|oneRow!11@
+pre|1|predictY!11@
+rea|1|reader!11@
+row|1|rowDict!11@
+vec|1|vec!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
